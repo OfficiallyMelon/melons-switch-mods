@@ -1,2 +1,3 @@
-# melons-switch-mods
-A compilation of all the mods/patches i have made for this switch.
+# Melons Switch Patches & Mods
+All the patches & mods I have made for the nintendo switch!
+(Mainly games on UE)
